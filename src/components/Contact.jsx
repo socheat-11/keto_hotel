@@ -52,7 +52,7 @@ class Contact extends Component {
                     type="submit"
                     className="inline-block text-[16px] py-2 px-5 rounded-full transition-all duration-[800ms] ease-in-out text-[#fff] bg-[#fe0000] hover:bg-transparent hover:text-[#fe0000] border-2 border-[#fe0000]"
                   >
-                    messenger
+                    Messenger
                   </button>
                 </div>
               </div>

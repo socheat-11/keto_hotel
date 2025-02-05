@@ -41,7 +41,7 @@ function Home(props) {
         <h1 className="text-[40px] font-bold text-white">
           <ReactTyped
             strings={[
-              "Welcome to my<span class='text-[50px] text-[#fe0000] italic'> Hotel Keto !</span>",
+              "Welcome to my<span class='text-[50px] text-[#fe0000]'> Hotel Keto !</span>",
               "Thailand and a guesthouse<span class='text-[50px] text-[#fe0000] italic'> in Pattaya !</span>",
               " Thailand !",
             ]}
