@@ -32,7 +32,7 @@ function Home(props) {
   return (
     <div>
       <div
-        className="bg-cover bg-black bg-opacity-60 bg-center h-screen flex flex-col items-center justify-center text-center"
+        className="bg-cover bg-black bg-opacity-60 bg-center h-screen flex flex-col items-center justify-center"
         style={{
           backgroundImage: `url(${backgroundImages[currentImageIndex]})`,
         }}
@@ -51,7 +51,7 @@ function Home(props) {
           />
         </h1>
         {/* Booking Form Section - Centered */}
-        <div className="mt-10 w-full max-w-md">
+        <div className="mt-10 flex justify-center items-center w-full max-w-md">
           <BookingForm />
         </div>
       </div>

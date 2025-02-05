@@ -36,7 +36,7 @@ function BookingForm() {
       {/* Popup Modal */}
       {isPopupVisible && (
         <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
-          <div className="relative bg-black bg-opacity-60 p-6 rounded-lg shadow-lg max-w-md w-full">
+          <div className="relative bg-black bg-opacity-60 p-6 border-l-4 border-[#fe0000] shadow-lg max-w-md w-full">
             <h2 className="text-2xl text-[#fff] font-bold mb-4 text-center">
               Book Your Appointment
             </h2>

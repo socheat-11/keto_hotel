@@ -58,7 +58,7 @@ class Footer extends Component {
               <ul className="space-y-2 mt-7">
                 <li>
                   <a
-                    href="#"
+                    href=""
                     className="fle hover:text-[#fe0000] items-center mb-4"
                   >
                     Home
@@ -66,7 +66,7 @@ class Footer extends Component {
                 </li>
                 <li>
                   <a
-                    href="#"
+                    href="/about"
                     className="fle hover:text-[#fe0000] items-center mb-4"
                   >
                     About
@@ -74,7 +74,7 @@ class Footer extends Component {
                 </li>
                 <li>
                   <a
-                    href="#"
+                    href="/room"
                     className="fle hover:text-[#fe0000] items-center mb-4"
                   >
                     Our Room
@@ -82,7 +82,7 @@ class Footer extends Component {
                 </li>
                 <li>
                   <a
-                    href="#"
+                    href="/gallery"
                     className="fle hover:text-[#fe0000] items-center mb-4"
                   >
                     Gallery
@@ -90,7 +90,7 @@ class Footer extends Component {
                 </li>
                 <li>
                   <a
-                    href="#"
+                    href="/blog"
                     className="fle hover:text-[#fe0000] items-center mb-4"
                   >
                     Blog
@@ -98,7 +98,7 @@ class Footer extends Component {
                 </li>
                 <li>
                   <a
-                    href="#"
+                    href="/contact"
                     className="fle hover:text-[#fe0000] items-center mb-4"
                   >
                     Contact
