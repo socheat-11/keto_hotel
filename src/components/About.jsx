@@ -1,12 +1,12 @@
 import React, { Component } from "react";
 import about from "../image/about.png";
-import AboutHeader from "./AboutHeader";
 
 class About extends Component {
   render() {
     return (
-      <div className="">
-        <AboutHeader />
+      
+      <div className="mt-10">
+       
         <div className="max-w-screen-xl mx-auto p-4">
           <div className="flex flex-col md:flex-row">
             <div className="w-full md:w-2/5 p-4">

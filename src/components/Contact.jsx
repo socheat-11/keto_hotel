@@ -3,7 +3,7 @@ import React, { Component } from "react";
 class Contact extends Component {
   render() {
     return (
-      <div className=" ">
+      <div className="mt-10 ">
         <div className="max-w-screen-xl mx-auto py-5 p-4">
           <div className="text-center">
             <h2 className="text-[35px] mb-3 font-extrabold uppercase">

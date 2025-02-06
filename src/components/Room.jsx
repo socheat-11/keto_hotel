@@ -17,7 +17,7 @@ class Room extends Component {
 
     return (
       <div className="bg-[#f4f5f7] py-5">
-      <div className="max-w-screen-xl bg-[#f4f5f7] mx-auto p-4">
+      <div className="max-w-screen-xl mt-10 bg-[#f4f5f7] mx-auto p-4">
         {/* Title Section */}
         <div className="text-center">
           <h2 className="text-[35px] mb-3 font-extrabold uppercase">

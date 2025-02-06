@@ -53,10 +53,10 @@ function Blog(props) {
 
   return (
     <div
-      className="bg-cover bg-black bg-opacity-60 bg-center py-10 flex items-center justify-center"
+      className="bg-cover  bg-black bg-opacity-60 bg-center py-10 flex items-center justify-center"
       style={{ backgroundImage: `url(${backgroundImages[currentImageIndex]})` }}
     >
-      <div className="max-w-screen-xl mx-auto p-4">
+      <div className="max-w-screen-xl mt-10 mx-auto p-4">
         {/* Title Section */}
         <div className="text-center">
           <h2 className="text-[35px] text-[#fff] mb-3 font-extrabold uppercase">
