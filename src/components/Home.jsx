@@ -42,7 +42,7 @@ function Home(props) {
           <ReactTyped
             strings={[
               "Welcome to my<span class='text-[50px] text-[#fe0000]'> Hotel Keto !</span>",
-              "Thailand and a guesthouse<span class='text-[50px] text-[#fe0000] italic'> in Pattaya !</span>",
+              "Thailand and a guesthouse<span class='text-[50px] text-[#fe0000]'> in Pattaya !</span>",
               " Thailand !",
             ]}
             typeSpeed={100}
